@@ -1,9 +1,9 @@
 # Solution to Flexor Landing Page Drill
 
-![](./assets/screenshot.png)
+![](./media/screenshot.png)
 
-Live Solution: [https://nonprofit-landing-page.vercel.app/](https://nonprofit-landing-page.vercel.app/)
+Live Solution: [https://flexor-blog.vercel.app/](https://flexor-blog.vercel.app/)
 
-This repo contains the solution of Non-Profit Landing Page drill of Mountblue JS Bootcamp.
+This repo contains the solution of Flexor Landing Page drill of Mountblue JS Bootcamp.
 
 ---
